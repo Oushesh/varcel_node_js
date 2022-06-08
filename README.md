@@ -17,3 +17,9 @@ Hosting express node project on vercel
    --> npm start
    --> It should work properly.
    --> Then on localbrowser go to: http://127.0.0.1:9001/home
+
+
+## Deployment:
+   --> Environment Variables: https://vercel.com/docs/concepts/projects/environment-variables
+
+   --> here PORT 9002
