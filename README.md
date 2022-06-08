@@ -12,3 +12,8 @@ Hosting express node project on vercel
    git clone
    npm install
    You will find node_modules folder then add it on .gitignore
+
+## Start:
+   --> npm start
+   --> It should work properly.
+   --> Then on localbrowser go to: http://127.0.0.1:9001/home
